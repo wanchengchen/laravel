@@ -3,7 +3,7 @@
 <head>
     <title>@yield('title', 'WELCOME') - WanChengCheng Blog</title>
     <link rel="stylesheet" href="/css/app.css">
-    <link rel="stylesheet" href="/css/default.css">
+    {{--<link rel="stylesheet" href="/css/app.scss">--}}
 </head>
 <body>
 @include('layouts._header')

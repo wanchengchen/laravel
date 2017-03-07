@@ -1,7 +1,6 @@
 <div class="col-md-12">
     <footer class="footer">
         <small class="slogon">
-            <img class="brand-icon" src="">
             <a href="">
                 万成晨 | 奋斗不息
             </a>
